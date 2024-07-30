@@ -41,21 +41,16 @@ The dataset consists of the following columns:
 - To identify the most critical factors for data professionals when considering a new job.
 
 
- ![Survey Takers](https://github.com/AditiNamboodirirpad/Data_Professionals_Power_BI/Screenshots%20of%20Viz/Survey%20Takers.png)
+ ![Survey Takers](https://github.com/AditiNamboodirirpad/Data_Professionals_Power_BI/blob/b5747f47961b0ef418a866722a7a760147b81fe4/Screenshots%20Of%20Viz/Survey%20Takers.png)
 
- ![Role](https://github.com/AditiNamboodirirpad/Data_Professionals_Power_BI/Screenshots%20of%20Viz/Role.png)
+ ![Role](https://github.com/AditiNamboodirirpad/Data_Professionals_Power_BI/blob/b5747f47961b0ef418a866722a7a760147b81fe4/Screenshots%20Of%20Viz/Role.png)
 
-![Satisfaction Index](https://github.com/AditiNamboodirirpad/Data_Professionals_Power_BI/Screenshots%20of%20Viz/Satisfaction%20Index.png)
+![Satisfaction Index](https://github.com/AditiNamboodirirpad/Data_Professionals_Power_BI/blob/b5747f47961b0ef418a866722a7a760147b81fe4/Screenshots%20Of%20Viz/Satisfaction%20Index.png)
 
 ## Tools and Technologies
 
 **Power BI**: Used for data visualization and creating interactive dashboards.
 
-## How to Use
-
-1. **Data Preparation**: The dataset needs to be cleaned and prepared for analysis. This includes handling missing values, data type conversion, and other preprocessing steps.
-2. **Visualization**: Import the dataset into Power BI and create visualizations based on the columns provided.
-3. **Analysis**: Explore different aspects of the data, such as trends, correlations, and patterns, to gain insights into the experiences of data professionals.
 
 ## Conclusion
 
